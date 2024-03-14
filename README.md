@@ -1,2 +1,2 @@
 # VendorForce
-Inventarios da Vendor Force.
+Inventários da Vendor Force.
